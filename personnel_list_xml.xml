@@ -1,0 +1,37 @@
+<?xlm işaretleme dili ile örnek  personel bilgileri gösterimi?>
+
+<PersonnelList>
+    <Personnel>
+        <Number>1</Number>
+        <ID>4962718653487</ID>
+        <Name>Mete</Name>
+        <Surname>Aslan</Surname>
+        <PlaceofBirth>Ankara</PlaceofBirth>
+        <Department>Human Resources</Department>
+        <e-mail>mete.aslan@sotfware.com</e-mail>
+        <Phone>+90 123 987 4560</Phone>
+        <Extension>450</Extension>
+    </Personnel>
+    <Personnel>
+        <Number>2</Number>
+        <ID>5753159852456</ID>
+        <Name>Nagihan</Name>
+        <Surname>Kara</Surname>
+        <PlaceofBirth>İstanbul</PlaceofBirth>
+        <Department>Software Development</Department>
+        <e-mail>nagihan.kara@sotfware.com</e-mail>
+        <Phone>+90 123 987 4560</Phone>
+        <Extension>470</Extension>
+    </Personnel>
+    <Personnel>
+        <Number>3</Number>
+        <ID>8561794328452</ID>
+        <Name>Kerem</Name>
+        <Surname>Kaya</Surname>
+        <PlaceofBirth>İzmir</PlaceofBirth>
+        <Department>Finance</Department>
+        <e-mail>kerem.kaya@sofware.com</e-mail>
+        <Phone>+90 123 987 4560</Phone>
+        <Extension>480</Extension>
+    </Personnel>
+</PersonnelList>
